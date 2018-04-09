@@ -40,5 +40,7 @@
 
     <modules>
         <module>content-eureka-server</module>
+        <module>content-eureka-service-provider</module>
+        <module>content-eureka-service-invoker</module>
     </modules>
 </project>
