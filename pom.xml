@@ -42,5 +42,6 @@
         <module>content-eureka-server</module>
         <module>content-eureka-service-provider</module>
         <module>content-eureka-service-invoker</module>
+        <module>content-gateway</module>
     </modules>
 </project>

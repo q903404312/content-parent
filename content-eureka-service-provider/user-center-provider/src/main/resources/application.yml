@@ -1,6 +1,6 @@
 spring:
   application:
-    name: first-service-provider
+    name: user-center-provider
 eureka:
   instance:
     hostname: localhost
